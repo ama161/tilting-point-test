@@ -1,0 +1,11 @@
+tr td {
+    text-align: left;
+}
+
+tr td:first-child {
+    vertical-align: top;
+}
+
+tr.noVerified {
+    background: beige;
+}

@@ -1,0 +1,14 @@
+.filter {
+    margin: 3%;
+}
+.filter input {
+    font-size: 14px;
+    height: 24px;
+    border: solid black 2px;
+    margin: 1%;
+}
+
+.filter input::placeholder {
+    font-size: 14px;
+    vertical-align: middle;
+}
